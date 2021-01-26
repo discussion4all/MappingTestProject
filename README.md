@@ -1,6 +1,6 @@
 # MappingTestProject
 
-# run project 
+# Run project 
  run index.html file in the browser.
 
 # Steps to create this project
@@ -11,7 +11,7 @@
 4. Generate code using https://docs.mapbox.com/.
 
 
-# Project Features
+# Project features
 
 1. Map with POI layer.
 3. Zoom and rotation controls to the map.
